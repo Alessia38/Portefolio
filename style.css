@@ -1,0 +1,139 @@
+/* FLECHE RETOUR HAUT DE PAGE */
+#scroll_to_top {
+	position: fixed;
+	width: 50px;
+	height: 5px;
+	bottom: 50px;
+	right: 30px;
+ }
+ #scroll_to_top img {
+	width: 55px;
+ }
+
+/* FOOTER */
+ footer {
+	position: sticky;
+    display: flex;
+    text-align: center;
+    padding: 2px;
+    background-color: #343a40;
+    color: #fff;
+}
+
+/* BARRE DE NAVIGATION */
+.navbar{
+	width: 100%;
+	padding: 0%;
+}
+
+
+li{
+	text-align: center;
+}
+
+/* TITRES */
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h5{
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+/* LOGOS */
+.logo_accueil{
+	display: flex;
+	margin: auto;
+	width: 50%;
+}
+
+.logoCRIF{
+	display: flex;
+	margin: auto;
+	width: 50%;
+}
+
+.images{
+	margin: auto;	
+	width: 70%;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 8px 8px 10px 0  #1212bf33;
+}
+
+.missionsCRIF{
+	display: flex;
+	margin: auto;
+	width: 50%;
+}
+
+.locCRIF{
+	display: flex;
+	margin: auto;
+	width: 50%;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 8px 8px 10px 0  #1212bf33;
+}
+
+/* CV */
+.cv{
+	display: flex;
+	margin: auto;
+	width: 600px;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 8px 8px 10px 0  #1212bf33;
+}
+
+.organi {
+	display: flex;
+	margin: auto;
+	width: 90%;
+}
+
+.liste_presentation{
+	display: flex;
+	margin: auto;
+	text-align: center;
+  	width: 400px;
+}
+
+.miss_princi{
+	display: flex;
+	margin: auto;
+	text-align: center;
+  	width: 500px;
+}
+
+.missions_princ{
+	display: flex;
+	margin: auto;
+	text-align: center;
+  	width: 500px;
+}
+
+.pharma{
+	display: flex;
+	margin: auto;
+	text-align: center;
+  	width: 1000px;
+}
+.outils{
+	width: 800px;
+	margin: auto;
+	text-align: center;
+}
+
+.tâches{
+	margin-left: 30px;
+	margin-right: 50px;
+}
+
+.missions{
+	margin-left: 30px;
+	margin-right: 50px;
+}
